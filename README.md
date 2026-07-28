@@ -11,11 +11,11 @@ I'm a full-stack engineer with 10+ years of experience and a B.Sc. in Software E
 
 ## Technologies & Tools
 
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3)
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/Git-000?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-000?style=flat&logo=linux)
 
 ## Interests
